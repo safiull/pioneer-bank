@@ -1,0 +1,11 @@
+#login-area{
+    padding: 100px;
+}
+
+.shadow{
+    box-shadow: 5px 5px 10px gray;
+}
+
+.container{
+    display: none;
+}
